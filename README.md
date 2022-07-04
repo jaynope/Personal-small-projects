@@ -30,7 +30,7 @@ Refer to 2. challenge , I Google a function called “.location_once_scrolled_in
 
 Refer to 3. challenge , just need the try except to let the function loop when it succeed to locate the -4 comments of the thread , however still finding way to solve the loop time become so slow after the 500th loop 
 
------------------------------
+----------------------------- 
 
 Reason of choosing this project  : 
 
