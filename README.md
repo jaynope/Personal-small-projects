@@ -19,6 +19,8 @@ Major challenge :
  1. There are over 13k comments on this thread , and at first it only shows around 180 comments 
  2. However , the button is in the middle of the page , so you need a function to locate where it is to press
  3. The time loading of the webpage  is quite long , so the scroll down function sometimes need takes 3-4 times 
+ 
+-----------------------------
 
 How did I solve it : 
 
