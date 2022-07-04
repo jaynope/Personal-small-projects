@@ -12,8 +12,6 @@ There are two versions , one is simple ver , which contains a simple post with f
 
 Another one is the more complex version, which is a Daily Discussion Thread of May 27 , 2022 , contains over 13k comments 
 
-You can check my code in my GitHub link below if you want:
-
 -----------------------------
 
 Major challenge : 
