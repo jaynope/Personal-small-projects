@@ -13,13 +13,12 @@ Then I choose to do web-scarping in some post of Reddit r/wallstreetbets.
 
 And after 1 full day trying and half day for debug ,  I succeeded ! 
 
------------------------------
 
 There are two versions , one is simple ver , which contains a simple post with fews comments to web-scrape 
 
 Another one is the more complex version, which is a Daily Discussion Thread of May 27 , 2022 , contains over 13k comments 
 
------------------------------
+
 
 Major challenge : 
 
@@ -27,7 +26,6 @@ Major challenge :
  2. However , the button is in the middle of the page , so you need a function to locate where it is to press
  3. The time loading of the webpage  is quite long , so the scroll down function sometimes need takes 3-4 times 
  
------------------------------
 
 How did I solve it : 
 
@@ -37,15 +35,13 @@ Refer to 2. challenge , I Google a function called “.location_once_scrolled_in
 
 Refer to 3. challenge , just need the try except to let the function loop when it succeed to locate the -4 comments of the thread , however still finding way to solve the loop time become so slow after the 500th loop 
 
------------------------------ 
-
 Reason of choosing this project  : 
 
 Mainly For fun ! Haha!
 
 But seriously , as a previous sociological researcher , the discussion in the forum is always a way that people chatting and exchanging ideas. It will be a new way for researcher to use these Big Data to know and get some meaning of these discussion thread
 
------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 2. Automation mini project 
 
@@ -53,15 +49,11 @@ Want to share another automation mini project during my Bootcamp learning:
 This is about to remote a virtual computer to run your Python task,
 and upload the result to the Google Sheets automatically.
 
------------------------------
-
 Here is the Python task I set:  
 to upload the result of my designed Options Calculator each month to Google Sheets 
 The main reason to do this is simple: 
 for presenting my result automatically for every time I run this python script to somewhere public 
 without letting people seeing my source code (as it is a Business secret , haha!)
-
------------------------------
 
 Application of this project : 
 You can use the Flask to do the whole Automation routine remotely 
