@@ -1,3 +1,10 @@
+Content Page 
+1. Web automation  mini project
+2. Automation mini project 
+
+-----------------------------
+1. Web automation  mini project
+
 Just want to share a web automation  mini project during my Bootcamp learning: 
 
 The task of the mini project is about to do a automation of web-scarping a website that you like.
@@ -37,3 +44,28 @@ Reason of choosing this project  :
 Mainly For fun ! Haha!
 
 But seriously , as a previous sociological researcher , the discussion in the forum is always a way that people chatting and exchanging ideas. It will be a new way for researcher to use these Big Data to know and get some meaning of these discussion thread
+
+-----------------------------
+
+2. Automation mini project 
+
+Want to share another automation mini project during my Bootcamp learning: 
+This is about to remote a virtual computer to run your Python task,
+and upload the result to the Google Sheets automatically.
+
+-----------------------------
+
+Here is the Python task I set:  
+to upload the result of my designed Options Calculator each month to Google Sheets 
+The main reason to do this is simple: 
+for presenting my result automatically for every time I run this python script to somewhere public 
+without letting people seeing my source code (as it is a Business secret , haha!)
+
+-----------------------------
+
+Application of this project : 
+You can use the Flask to do the whole Automation routine remotely 
+even no need to start your own computer , 
+this actually helps a lot 
+when you want to collect data or update some data automatically every hour every day in many fields such as research and financial industry.
+
